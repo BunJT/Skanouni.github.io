@@ -32,6 +32,12 @@ body{
     overflow: hidden;
 }
 
+.text {
+    font-size: 15.5px;
+    line-height: 1.35;
+    margin: 0 0 10px;
+}
+
 .navbar {
     overflow: hidden;
     position: fixed;
